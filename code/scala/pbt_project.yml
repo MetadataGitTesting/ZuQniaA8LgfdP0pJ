@@ -59,17 +59,9 @@ pipelineConfigurations:
     author: mzrpnzml.eebuwvbo@y6uhywjb.com
     createdAt: '2026-02-27 20:40:35'
     configurations:
-      pipelineConfigurations/kami.kuvalis/Mrs__Sanda_LangHoward_I__NoThanh_Thiel/dev:
-        name: dev
-        author: null
-        createdAt: '2026-02-27 20:40:35'
       pipelineConfigurations/kami.kuvalis/Mrs__Sanda_LangHoward_I__NoThanh_Thiel/dev2:
         name: dev2
         author: null
         createdAt: '2026-02-27 20:40:35'
-      pipelineConfigurations/kami.kuvalis/Mrs__Sanda_LangHoward_I__NoThanh_Thiel/dev3:
-        name: dev3
-        author: null
-        createdAt: '2026-02-27 20:40:36'
     basePipeline: 335/pipelines/Mrs__Sanda_LangHoward_I__NoThanh_Thiel
 projectConfigurations: {}
